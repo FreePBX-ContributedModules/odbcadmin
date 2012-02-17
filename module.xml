@@ -33,7 +33,7 @@
 		*0.9.8.2* add default dsn freepbx
 		*0.9.9* fix bugs
 	</changelog>
-	<location></location>
+	<location>contributed_modules/release/odbcadmin-0.9.9.tgz</location>
 	<info></info>
-	<md5sum></md5sum>
+	<md5sum>365a41ef0dd3d283156d38bfeb1ee6dd</md5sum>
 </module>
