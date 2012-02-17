@@ -1,0 +1,39 @@
+<module>
+	<rawname>odbcadmin</rawname>
+	<name>ODBC Admin</name>
+	<description>Allows configure OBDC of user administration.</description>
+	<version>0.9.9</version>
+	<type>tool</type>
+	<category>Third Party Addon</category>
+	<publisher>Qualityansweringservice.com (VoiceNation Live)</publisher>
+	<license>GPLv2</license>	
+	<menuitems>
+		<odbcadmin>ODBC Admin</odbcadmin>
+	</menuitems>
+	<depends>
+		<version>ge0.2</version>
+	</depends>
+	<info>http://www.qualityansweringservice.com/anatomy-oscc/freepbx/odbcadmin</info>
+	<changelog>
+		*0.1* Build Interface, write to file by root access
+		*0.2* odbc.ini conf + DB added
+		*0.3* rebuild all structure, add init DB function for first install
+		*0.3.1* support config res_odbc.conf
+		*0.4* support config odbcinst.ini
+		*0.6* bugs fixed
+		*0.7* file writer function
+		*0.8* check server status
+		*0.9* support install ODBC, ASODBC
+		*0.9.1* change GUI
+		*0.9.4* change add MSSQL
+		*0.9.6* fix bug on centos
+		*0.9.7* fix bugs, change menu
+		*0.9.8* auto setup odbc-asterisk on centos AsteriskNow
+		*0.9.8.1* add some guide
+		*0.9.8.2* add default dsn freepbx
+		*0.9.9* fix bugs
+	</changelog>
+	<location></location>
+	<info></info>
+	<md5sum></md5sum>
+</module>
